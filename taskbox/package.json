@@ -39,10 +39,14 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.8.3",
     "@storybook/addon-actions": "^5.3.13",
     "@storybook/addon-links": "^5.3.13",
     "@storybook/addons": "^5.3.13",
+    "@storybook/api": "^5.3.13",
+    "@storybook/components": "^5.3.13",
     "@storybook/preset-create-react-app": "^1.5.2",
-    "@storybook/react": "^5.3.13"
+    "@storybook/react": "^5.3.13",
+    "@storybook/theming": "^5.3.13"
   }
 }
